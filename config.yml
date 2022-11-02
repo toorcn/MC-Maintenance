@@ -1,0 +1,14 @@
+enable: false
+use-gui: false
+
+messages:
+  on1: '&7Maintenance &8mode has been enabled!'
+  on2: '&8Maintenance mode is already enabled.'
+  off1: '&7Maintenance &8mode has been disabled!'
+  off2: '&8Maintenance mode is already disabled.'
+  addar: '&8Player is in the list.'
+  added: '&8Player added to the list!'
+  removear: '&8Player is not in the list.'
+  removed: '&8Player removed from the list!'
+  reload: '&7Configuration file reloaded.'
+  kick: '&cINFO!:nl:&7Server is in Maintenance!'

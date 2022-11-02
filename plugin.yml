@@ -1,0 +1,7 @@
+name: HyzonMaintenance 
+version: 3.2
+main: net.hyzon.Maintain.MT
+
+commands:
+  mt: 
+    description: A HyzonMaintenance Command
